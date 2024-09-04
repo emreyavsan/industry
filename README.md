@@ -34,6 +34,7 @@
 | Sendloop | İstanbul | http://sendloop.com      |
 | Sixt Rent a Car | İzmir | https://www.sixt.com.tr      |
 | Sony | İstanbul | http://sony.com.tr      |
+| Sporthink | İzmir | https://www.sporthink.com.tr      |
 | Teknasyon Teknoloji         | İstanbul | http://teknasyon.com      |
 | UseInsider | İstanbul | http://insider.com      |
 | Vidobu.com | İstanbul | http://vidobu.com      |
